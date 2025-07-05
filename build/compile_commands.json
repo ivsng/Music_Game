@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\main.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\main.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\main.cpp",
+  "output": "CMakeFiles\\music_game.dir\\main.cpp.obj"
+}
+]
