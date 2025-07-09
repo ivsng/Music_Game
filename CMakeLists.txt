@@ -15,3 +15,5 @@ project(Music_Game)
 
 set(CMAKE_CXX_STANDARD 17)
 add_executable(music_game main.cpp)
+
+include_directories(${CMAKE_CURRENT_SOURCE_DIR})  # Чтобы компилятор нашёл json.hpp
