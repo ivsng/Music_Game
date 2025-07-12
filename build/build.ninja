@@ -49,11 +49,12 @@ cmake_ninja_workdir = C$:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build/
 
 build cmake_object_order_depends_target_music_game: phony || CMakeFiles/music_game.dir
 
-build CMakeFiles/music_game.dir/main.cpp.obj: CXX_COMPILER__music_game_unscanned_Debug C$:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/main.cpp || cmake_object_order_depends_target_music_game
-  DEP_FILE = CMakeFiles\music_game.dir\main.cpp.obj.d
+build CMakeFiles/music_game.dir/src/main.cpp.obj: CXX_COMPILER__music_game_unscanned_Debug C$:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/src/main.cpp || cmake_object_order_depends_target_music_game
+  DEP_FILE = CMakeFiles\music_game.dir\src\main.cpp.obj.d
   FLAGS = -g -std=gnu++17
+  INCLUDES = -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include
   OBJECT_DIR = CMakeFiles\music_game.dir
-  OBJECT_FILE_DIR = CMakeFiles\music_game.dir
+  OBJECT_FILE_DIR = CMakeFiles\music_game.dir\src
 
 
 # =============================================================================
@@ -63,7 +64,7 @@ build CMakeFiles/music_game.dir/main.cpp.obj: CXX_COMPILER__music_game_unscanned
 #############################################
 # Link the executable music_game.exe
 
-build music_game.exe: CXX_EXECUTABLE_LINKER__music_game_Debug CMakeFiles/music_game.dir/main.cpp.obj
+build music_game.exe: CXX_EXECUTABLE_LINKER__music_game_Debug CMakeFiles/music_game.dir/src/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\music_game.dir

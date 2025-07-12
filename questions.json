@@ -1,11 +1,20 @@
 [
   {
-    "text": "What's the first One Direction single?",
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/images/hi1.jpg",
+    "question": "Who has this tattoo?",
+    "answer": "Harry",
+    "options": ["Harry", "Louis", "Zayn", "Niall"],
+    "level": 1
+  },
+  {
+    "type": "video",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/videos/bsev1.mp4",
+    "question": "Which song is this music video for?",
     "answer": "What Makes You Beautiful",
-    "options": [
-      "Drag Me Down", 
-      "What Makes You Beautiful", 
-      "Story of My Life"
-    ]
+    "options": ["Night Changes", "What Makes You Beautiful", "Drag Me Down"],
+    "level": 1
   }
 ]
