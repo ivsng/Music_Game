@@ -247,15 +247,6 @@ Music_Game_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Music_Game_SOURCE_DIR:STATIC=C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game
 
-//Value Computed by CMake
-Project_BINARY_DIR:STATIC=C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build
-
-//Value Computed by CMake
-Project_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-Project_SOURCE_DIR:STATIC=C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game
-
 
 ########################
 # INTERNAL cache entries

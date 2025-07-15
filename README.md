@@ -9,6 +9,6 @@
 
 ## Сборка  
 ```bash
-cmake -B build  
-cmake --build build  
+cmake -B build
+cmake --build build
 ./build/music_game

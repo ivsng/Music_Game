@@ -1,6 +1,20 @@
 # ninja log v5
-30	5861	7740431018685641	CMakeFiles/music_game.dir/src/main.cpp.obj	9874ee97d4a5901
-5865	6224	7740431022263517	music_game.exe	27049ca0c2800967
 31	331	7733936215299614	CMakeFiles/music_game.dir/main.cpp.obj	6f8016ebe4d5f450
-56	5585	7740433746608374	CMakeFiles/music_game.dir/src/main.cpp.obj	9874ee97d4a5901
-5586	5828	7740433748956152	music_game.exe	27049ca0c2800967
+524	732	7742998315721287	music_game.exe	d6ae917bdc3064b1
+63	703	7742993720863244	CMakeFiles/music_game.dir/src/TextQuestion.cpp.obj	a07dc3686a3ac277
+46	495	7742998313435552	CMakeFiles/music_game.dir/src/main.cpp.obj	9874ee97d4a5901
+56	813	7742993721942669	CMakeFiles/music_game.dir/src/Question.cpp.obj	16f5e30d5263c953
+69	653	7742993720324980	CMakeFiles/music_game.dir/src/ImageQuestion.cpp.obj	313c4602c02e1126
+41	587	7742983517475078	CMakeFiles/music_game.dir/src/AudioManager.cpp.obj	6074f0968af935ac
+52	523	7742998313755788	CMakeFiles/music_game.dir/src/Menu.cpp.obj	cb4ea6fb1bf05981
+74	660	7742993720425912	CMakeFiles/music_game.dir/src/VideoQuestion.cpp.obj	aa884fd1483e6a75
+78	5517	7742993768840819	CMakeFiles/music_game.dir/src/Quiz.cpp.obj	8eeed43a79e88aca
+79	829	7743008267123903	CMakeFiles/music_game.dir/src/AudioManager.cpp.obj	6074f0968af935ac
+55	832	7743008267123903	CMakeFiles/music_game.dir/src/ImageQuestion.cpp.obj	313c4602c02e1126
+60	853	7743008267363210	CMakeFiles/music_game.dir/src/VideoQuestion.cpp.obj	aa884fd1483e6a75
+49	884	7743008267690561	CMakeFiles/music_game.dir/src/TextQuestion.cpp.obj	a07dc3686a3ac277
+39	994	7743008268755016	CMakeFiles/music_game.dir/src/main.cpp.obj	9874ee97d4a5901
+72	1066	7743008269420281	CMakeFiles/music_game.dir/src/Menu.cpp.obj	cb4ea6fb1bf05981
+45	1125	7743008270076905	CMakeFiles/music_game.dir/src/Question.cpp.obj	16f5e30d5263c953
+67	6060	7743008319305326	CMakeFiles/music_game.dir/src/Quiz.cpp.obj	8eeed43a79e88aca
+6061	6318	7743008321847478	music_game.exe	d6ae917bdc3064b1

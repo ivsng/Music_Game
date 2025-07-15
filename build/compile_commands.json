@@ -4,5 +4,47 @@
   "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\main.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\main.cpp",
   "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\main.cpp",
   "output": "CMakeFiles\\music_game.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Question.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Question.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Question.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\Question.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\TextQuestion.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\TextQuestion.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\TextQuestion.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\TextQuestion.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\ImageQuestion.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\ImageQuestion.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\ImageQuestion.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\ImageQuestion.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\VideoQuestion.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\VideoQuestion.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\VideoQuestion.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\VideoQuestion.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Quiz.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Quiz.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Quiz.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\Quiz.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Menu.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Menu.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Menu.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\Menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -g -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\AudioManager.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\AudioManager.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\AudioManager.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\AudioManager.cpp.obj"
 }
 ]

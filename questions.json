@@ -4,16 +4,57 @@
     "mode": "history",
     "file": "assets/history/images/hi1.jpg",
     "question": "Who has this tattoo?",
-    "answer": "Harry",
+    "answer": "1",
     "options": ["Harry", "Louis", "Zayn", "Niall"],
     "level": 1
   },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/images/hi2.jpg",
+    "question": "For which magazine was this photoshoot?",
+    "answer": "2",
+    "options": ["Vogue", "Beauty papers", "Elle", "Fashion"],
+    "level": 3
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/images/hi3.jpg",
+    "question": "What is the color of Niall's pajamas?",
+    "answer": "1",
+    "options": ["black", "white", "blue", "green"],
+    "level": 4
+  },
+
+
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "Who said had a strange fear of spoons?",
+    "answer": "3",
+    "options": ["Harry", "Louis", "Liam", "Niall"],
+    "level": 2
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "Chicken stuffed with «???»",
+    "answer": "4",
+    "options": ["rise", "mushrooms", "vegetables", "mozzarella"],
+    "level": 6
+  },
+
+
+
+
+
   {
     "type": "video",
     "mode": "best_song_ever",
     "file": "assets/best_song_ever/videos/bsev1.mp4",
     "question": "Which song is this music video for?",
-    "answer": "What Makes You Beautiful",
+    "answer": "2",
     "options": ["Night Changes", "What Makes You Beautiful", "Drag Me Down"],
     "level": 1
   }
