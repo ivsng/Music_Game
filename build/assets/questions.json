@@ -1,0 +1,344 @@
+[
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi1.jpg",
+    "question": "Which song is this?",
+    "answer": "2",
+    "options": ["Hey angel", "Watermelon sugar", "Drag me down", "Perfect"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "Which One Direction member auditioned with the song 'Isn't She Lovely' on The X Factor?",
+    "answer": "3",
+    "options": ["Liam", "Zayn", "Harry", "Louis"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi1.jpg",
+    "question": "Who has this tattoo?",
+    "answer": "1",
+    "options": ["Harry", "Louis", "Zayn", "Niall"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "How's the 5th album called?",
+    "answer": "1",
+    "options": ["Made in the A.M.", "Up All Night", "Take Me Home", "Midnight Memories"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi2.jpg",
+    "question": "Which song is this?",
+    "answer": "4",
+    "options": ["If I Could Fly", "Never Enough", "Olivia", "You & I"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi4.jpg",
+    "question": "What Harry era is this?",
+    "answer": "2",
+    "options": ["Frat boy", "Long hair Harry", "Fetus", "Love on tour"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "What was the name of Zayn's debut solo single?",
+    "answer": "4",
+    "options": ["Tonight", "Stardust", "Dusk Till Down", "Pillowtalk"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi3.jpg",
+    "question": "Which song is this?",
+    "answer": "1",
+    "options": ["Story Of My Life", "What a Feeling", "History", "Wolves"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "Who co-wrote the song 'Perfect'?",
+    "answer": "3",
+    "options": ["Niall and Liam", "Liam and Harry", "Harry and Louis", "Louis and Niall"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi6.jpg",
+    "question": "Whose show was it?",
+    "answer": "1",
+    "options": ["James Corden", "Helen", "Simon Cowell", "Jimmy Kimmel"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi4.jpg",
+    "question": "Which song is this?",
+    "answer": "2",
+    "options": ["18", "Night Changes", "Ready to Run", "Girl Almighty"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "How many Brit Awards did One Direction win?",
+    "answer": "1",
+    "options": ["7", "11", "6", "15"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi2.jpg",
+    "question": "For which magazine was this photoshoot?",
+    "answer": "2",
+    "options": ["Vogue", "Beauty papers", "Elle", "Fashion"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi5.jpg",
+    "question": "Which song is this?",
+    "answer": "3",
+    "options": ["Fool's gold", "Fireproof", "Infinity", "No Control"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "In the recording of which songs did the band's fans participate?",
+    "answer": "2",
+    "options": ["You & I", "History", "One thing", "No control"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi7.jpg",
+    "question": "What is the name of this show?",
+    "answer": "4",
+    "options": ["Truth or Dare", "Driving and singing", "Car concert", "Carpool karaoke"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi6.jpg",
+    "question": "Which song is this?",
+    "answer": "4",
+    "options": ["Spaces", "Clouds", "Illusion", "Midnight Memories"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "Which One Direction member also auditioned for The X Factor in 2008?",
+    "answer": "1",
+    "options": ["Liam", "Zayn", "Harry", "Louis"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi7.jpg",
+    "question": "Which song is this?",
+    "answer": "1",
+    "options": ["This town", "Act My Age", "Best Song Ever", "Diana"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "Where was the music video for the song 'Drag Me Down' filmed?",
+    "answer": "3",
+    "options": [
+      "Kennedy Space Center",
+      "Uchinoura Space Center",
+      "Lyndon B. Johnson Space Center",
+      "British National Space Centre"
+    ]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi3.jpg",
+    "question": "What is the color of Niall's pajamas?",
+    "answer": "1",
+    "options": ["black", "white", "blue", "green"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi8.jpg",
+    "question": "Which song is this?",
+    "answer": "3",
+    "options": ["You & I", "Strong", "End of the Day", "Happily"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "For which song did boys win the BRIT Award for in 2016?",
+    "answer": "2",
+    "options": ["Story of my life", "Drag me down", "Best song ever", "Perfect"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi8.jpg",
+    "question": "Whose tattoos are these?",
+    "answer": "2",
+    "options": ["Harry", "Liam", "Niall", "Simon"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi9.jpg",
+    "question": "Which song is this?",
+    "answer": "1",
+    "options": ["One Thing", "Right Now", "Does He Know?", "Alive"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "The album cover for which One Direction album sees the group in a traditional red phone box?",
+    "answer": "2",
+    "options": ["Up All Night", "Take Me Home", "Midnight Memories", "Made In The A.M."]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi10.jpg",
+    "question": "Which song is this?",
+    "answer": "3",
+    "options": ["Kiss You", "Heart Attack", "Little Things", "Rock me"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "Which song was not performed in Carpool Karaoke?",
+    "answer": "4",
+    "options": ["Perfect", "No control ", "Drag me down", "You & I"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi11.jpg",
+    "question": "What is the name of the album?",
+    "answer": "3",
+    "options": ["Take me home", "Fine line", "FITF", "FOUR"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "What was the lead single on 'Four'?",
+    "answer": "4",
+    "options": ["18", "Night Changes", "No Control", "Steal My Girl"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi9.jpg",
+    "question": "Who played Veronica in BSE music video?",
+    "answer": "3",
+    "options": ["Niall", "Liam", "Zayn", "Louis"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi12.jpg",
+    "question": "Who wrote this album?",
+    "answer": "4",
+    "options": ["Harry", "Liam", "One Direction", "Niall"]
+  },
+  {
+    "type": "text",
+    "mode": "best_song_ever",
+    "question": "Who is the author of the song 'Little Things'?",
+    "answer": "3",
+    "options": ["Louis Tomlinson", "Taylor Swift", "Ed Sheeran", "Liam Payne"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi10.jpg",
+    "question": "Who is on this pic?",
+    "answer": "1",
+    "options": ["Harry", "Zayn", "Niall", "Louis"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi13.jpg",
+    "question": "Who wrote this album?",
+    "answer": "4",
+    "options": ["Louis", "Liam", "One Direction", "Harry"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "Who is the oldest member of One Direction?",
+    "answer": "2",
+    "options": ["Liam", "Louis", "Niall", "Zayn"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi11.jpg",
+    "question": "Who is on this pic?",
+    "answer": "3",
+    "options": ["Zayn", "Louis", "Niall", "Harry"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi14.jpg",
+    "question": "What music video is this?",
+    "answer": "2",
+    "options": ["You & I", "History", "18", "Night Changes"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi12.jpg",
+    "question": "Who organized this festival?",
+    "answer": "4",
+    "options": ["Harry", "Liam", "Niall", "Louis"]
+  },
+  {
+    "type": "image",
+    "mode": "best_song_ever",
+    "file": "assets/best_song_ever/image/bi15.jpg",
+    "question": "Which album is this?",
+    "answer": "1",
+    "options": ["Made in the A.M", "FOUR", "Take Me Home", "Up All Night"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi13.jpg",
+    "question": "Who wore a sweater with this dog?",
+    "answer": "4",
+    "options": ["Niall", "Zayn", "Louis", "Harry"]
+  },
+  {
+    "type": "text",
+    "mode": "history",
+    "question": "Where did Liam went in 2024",
+    "answer": "1",
+    "options": ["wrong direction", "home", "X factor", "Met Gala"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi14.jpg",
+    "question": "Who wrote this?",
+    "answer": "3",
+    "options": ["Harry", "Liam", "Louis", "Simon"]
+  },
+  {
+    "type": "image",
+    "mode": "history",
+    "file": "assets/history/image/hi6.jpg",
+    "question": "Who drew this heart?",
+    "answer": "4",
+    "options": ["Leeroy", "Liam", "Niall", "Harry"]
+  }
+]

@@ -1,3 +1,4 @@
 C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build/CMakeFiles/music_game.dir
+C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build/CMakeFiles/copy_assets.dir
 C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build/CMakeFiles/edit_cache.dir
 C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build/CMakeFiles/rebuild_cache.dir
