@@ -1,0 +1,9 @@
+# ninja log v6
+18	1020	7751204692801315	CMakeFiles/music_game.dir/src/SoundButton.cpp.obj	5969fd07cecc63e1
+3	1029	7751204692651892	CMakeFiles/music_game.dir/src/Button.cpp.obj	e2d83cb35827988e
+24	1063	7751204692853518	CMakeFiles/music_game.dir/src/main.cpp.obj	cef6053822991a94
+10	1573	7751204692721494	CMakeFiles/music_game.dir/src/Game.cpp.obj	4df58bfd3721593d
+15	3377	7751204692771286	CMakeFiles/music_game.dir/src/QuestionManager.cpp.obj	5023361cd8aee546
+3378	3550	7751204726389139	music_game.exe	77db9bec3417d1e
+27	4491	7751204692883523	CMakeFiles/copy_assets	702d5fa082e85342
+27	4491	7751204692883523	C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build/CMakeFiles/copy_assets	702d5fa082e85342

@@ -1,5 +1,4 @@
-# Игнорировать папку сборки
-build/
-# Игнорировать исполняемые файлы
-*.exe
-*.o
+mkdir build
+cd build
+cmake ..
+cmake --build .

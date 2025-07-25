@@ -1,32 +1,32 @@
 [
 {
   "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
-  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe  @CMakeFiles/music_game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Button.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Button.cpp",
-  "file": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/src/Button.cpp",
-  "output": "CMakeFiles/music_game.dir/src/Button.cpp.obj"
+  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -IC:/SFML-3.0.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Button.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Button.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Button.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\Button.cpp.obj"
 },
 {
   "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
-  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe  @CMakeFiles/music_game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Game.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Game.cpp",
-  "file": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/src/Game.cpp",
-  "output": "CMakeFiles/music_game.dir/src/Game.cpp.obj"
+  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -IC:/SFML-3.0.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\Game.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Game.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\Game.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\Game.cpp.obj"
 },
 {
   "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
-  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe  @CMakeFiles/music_game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\QuestionManager.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\QuestionManager.cpp",
-  "file": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/src/QuestionManager.cpp",
-  "output": "CMakeFiles/music_game.dir/src/QuestionManager.cpp.obj"
+  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -IC:/SFML-3.0.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\QuestionManager.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\QuestionManager.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\QuestionManager.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\QuestionManager.cpp.obj"
 },
 {
   "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
-  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe  @CMakeFiles/music_game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\SoundButton.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\SoundButton.cpp",
-  "file": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/src/SoundButton.cpp",
-  "output": "CMakeFiles/music_game.dir/src/SoundButton.cpp.obj"
+  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -IC:/SFML-3.0.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\SoundButton.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\SoundButton.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\SoundButton.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\SoundButton.cpp.obj"
 },
 {
   "directory": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/build",
-  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe  @CMakeFiles/music_game.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\main.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\main.cpp",
-  "file": "C:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/src/main.cpp",
-  "output": "CMakeFiles/music_game.dir/src/main.cpp.obj"
+  "command": "C:\\mingw64_14_2_0\\bin\\c++.exe -IC:/Users/Kris/Desktop/Study/TPU/2sem/Music_Game/include -IC:/SFML-3.0.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\music_game.dir\\src\\main.cpp.obj -c C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\main.cpp",
+  "file": "C:\\Users\\Kris\\Desktop\\Study\\TPU\\2sem\\Music_Game\\src\\main.cpp",
+  "output": "CMakeFiles\\music_game.dir\\src\\main.cpp.obj"
 }
 ]

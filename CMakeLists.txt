@@ -1,51 +1,41 @@
 cmake_minimum_required(VERSION 3.10)
-project(music_game)
+project(MusicGame)
 
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_BUILD_TYPE Release)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Для SFML 3.0
-set(SFML_DIR "C:/SFML-3.0.0/lib/cmake/SFML")
-find_package(SFML 3.0 REQUIRED COMPONENTS Graphics Audio)
+# Включаем директории заголовков
+include_directories(include)
+include_directories("C:/SFML-3.0.0/include")
 
-add_executable(music_game src/main.cpp)
-
-target_link_libraries(music_game PRIVATE
-    SFML::Graphics
-    SFML::Audio
+# Собираем все исходные файлы
+file(GLOB SOURCES 
+    "src/*.cpp"
 )
 
-target_include_directories(music_game PRIVATE ${CMAKE_SOURCE_DIR}/include)
+file(GLOB HEADERS 
+    "include/*.h"
+    "include/*.hpp"
+)
 
-# Копирование всех необходимых ресурсов
-add_custom_command(TARGET music_game POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E make_directory
-        $<TARGET_FILE_DIR:music_game>/assets/global/audio
-    COMMAND ${CMAKE_COMMAND} -E make_directory
-        $<TARGET_FILE_DIR:music_game>/assets/icons
-    COMMAND ${CMAKE_COMMAND} -E copy
-        ${CMAKE_SOURCE_DIR}/assets/global/audio/main_theme.ogg
-        $<TARGET_FILE_DIR:music_game>/assets/global/audio/
-    COMMAND ${CMAKE_COMMAND} -E copy
-        ${CMAKE_SOURCE_DIR}/assets/icons/sound_on.png
-        $<TARGET_FILE_DIR:music_game>/assets/icons/
-    COMMAND ${CMAKE_COMMAND} -E copy
-        ${CMAKE_SOURCE_DIR}/assets/icons/sound_off.png
-        $<TARGET_FILE_DIR:music_game>/assets/icons/
-    COMMAND ${CMAKE_COMMAND} -E copy
-        "C:/SFML-3.0.0/bin/sfml-graphics-3.dll"
-        "C:/SFML-3.0.0/bin/sfml-audio-3.dll"
-        "C:/SFML-3.0.0/bin/sfml-window-3.dll"
-        "C:/SFML-3.0.0/bin/sfml-system-3.dll"
-        $<TARGET_FILE_DIR:music_game>
-    COMMENT "Copying game resources and DLLs..."
-    COMMAND ${CMAKE_COMMAND} -E copy
-        ${CMAKE_SOURCE_DIR}/questions.json
-        $<TARGET_FILE_DIR:music_game>
+# Создаем исполняемый файл
+add_executable(music_game ${SOURCES} ${HEADERS})
+
+# Линкуем библиотеки SFML (полные пути к файлам)
+target_link_libraries(music_game 
+    "C:/SFML-3.0.0/lib/libsfml-graphics.a"
+    "C:/SFML-3.0.0/lib/libsfml-window.a"
+    "C:/SFML-3.0.0/lib/libsfml-system.a"
+    "C:/SFML-3.0.0/lib/libsfml-audio.a"
+)
+
+# Копируем assets и DLL файлы при сборке
+add_custom_target(copy_assets ALL
     COMMAND ${CMAKE_COMMAND} -E copy_directory
-        ${CMAKE_SOURCE_DIR}/assets/best_song_ever
-        $<TARGET_FILE_DIR:music_game>/assets/best_song_ever
+    ${CMAKE_SOURCE_DIR}/assets
+    ${CMAKE_BINARY_DIR}/assets
     COMMAND ${CMAKE_COMMAND} -E copy_directory
-        ${CMAKE_SOURCE_DIR}/assets/history
-        $<TARGET_FILE_DIR:music_game>/assets/history
+    "C:/SFML-3.0.0/bin"
+    ${CMAKE_BINARY_DIR}
+    COMMENT "Copying assets and SFML DLLs"
 )
